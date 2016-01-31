@@ -1,2 +1,2 @@
 # palo-kasko
-whos next? a
+whos next?
